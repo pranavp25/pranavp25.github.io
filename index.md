@@ -19,12 +19,13 @@ Currently, I am a member of Dr. Paul Robertson’s research group at UC Irvine, 
 - 📄 [Research](research.html)  
 - 📜 [Publications](publications.html)  
 - 📂 [Curriculum Vitae](cv.html)  
-- 📧 [Contact](#contact)
 
 ---
 
 ### Contact
 
 📧 Email: premnatp@uci.edu
+
 🔗 [GitHub](https://github.com/pranavp25)  
+
 🔗 [LinkedIn](https://linkedin.com/in/pranav-premnath-17517a172/)
