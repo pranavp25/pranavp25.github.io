@@ -1,5 +1,4 @@
-title: "Pranav Premnath"
-description: "Graduate Student | Physics & Astronomy | UC Irvine"
-theme: jekyll-theme-modernist
-
-
+title: "Your Name"
+description: "PhD Student | Physics & Astronomy | UC Irvine"
+theme: jekyll-theme-minimal
+markdown: kramdown
