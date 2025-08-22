@@ -16,7 +16,8 @@ title: Publications
 
 - Beard et al. (2025), *AJ*, 169(2), 149 — **Jitter Across 15 yr: Leveraging Precise Photometry from Kepler and TESS to Extract Exoplanets from Radial Velocity Time Series**  
 - Crossfield et al. (2025), *AJ*, 169(2), 89 — **OrCAS: Origins, Compositions, and Atmospheres of Sub-Neptunes. I. Survey Definition**  
-- Kroft et al. (2025), *arXiv:2501.09095* — **A Pair of Dynamically Interacting Sub-Neptunes Around TOI-6054**  
+- Kroft et al. (2025), *AJ*, 170, 150. doi:10.3847/1538-3881/adee24 — **A Pair of Dynamically Interacting Sub-Neptunes Around TOI-6054**  
+- Teng et al. (2025), *AJ*, 170, 51. doi:10.3847/1538-3881/addab9 — **Stellar Obliquity of the Ultra-short-period Planet System HD 93963**  
 - Sheikh et al. (2024), *MNRAS*, 534(3), 1949 — **Correction to: Characterization of the repeating FRB 20220912A with the Allen Telescope Array**  
 - Beard et al. (2024), *AJ*, 168(4), 149 — **Utilizing Photometry from Multiple Sources to Mitigate Stellar Variability in Precise Radial Velocities: A Case Study of Kepler-21**  
 - Joshi et al. (2024), *The Astronomer’s Telegram*, No. 16599 — **Wideband detection of FRB 20240114A above 2 GHz with the Allen Telescope Array**  
