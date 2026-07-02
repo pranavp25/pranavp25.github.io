@@ -7,54 +7,66 @@ title: Research
 
 ## Graduate Research at UC Irvine
 
-My research interests lie at the intersection of stellar astrophysics and exoplanet detection, particularly in disentangling the effects of stellar activity on radial velocity (RV) measurements.
-
-### Transit Surface Reconstruction (TSR)
-
-Currently, I am a member of Dr. Paul Robertson’s research group at UC Irvine, where I am focused on mitigating the impact of stellar activity on radial velocity (RV) measurements to enable the detection of small, temperate exoplanets. My thesis centers on Transit Surface Reconstruction
-(TSR), a technique that isolates the stellar surface occulted during a planetary transit by subtracting in-transit spectra from a master out-of-transit spectrum. This method enables spatially resolved spectroscopy of the stellar surface and allows us to directly detect localized inhomogeneities like starspots—features that introduce RV noise, or “jitter”, and complicate planet detection and characterization. 
-
-I have developed a pipeline to apply TSR to data from the Keck Planet Finder (KPF), leveraging observations from a successful proposal I led. This work builds upon
-prior efforts with HARPS data and incorporates support for newer high-resolution spectrographs. By combining insights from photometric variability and time resolved spectroscopy, my goal is to develop a more comprehensive framework for understanding and mitigating stellar activity across a wide range of stellar types. 
-
-## Observing Experience
-
-I also bring hands-on observing experience at Keck and Lick Observatories, which has deepened my understanding of the instruments and observing strategies behind the data I analyze. Being part of the NEID and HPF consortia has further broadened my perspective, offering opportunities to engage with a collaborative community of researchers working at the forefront of RV science. These experiences have not only informed my technical approach but also provided the opportunity to contribute to large, multi-institutional projects focused on advancing exoplanet detection capabilities.
+My research focuses on the discovery and characterization of exoplanets around low-mass stars, with an emphasis on understanding planet formation and developing techniques to improve the precision of radial velocity (RV) measurements. My work combines large-scale exoplanet surveys, high-resolution spectroscopy, and observational astronomy to study both planetary systems and the stars they orbit.
 
 ---
 
-## Other Projects
+## GEMS: Giant Exoplanets around M-dwarf Stars
 
-## GEMS
+The primary focus of my Ph.D. research is the **Searching for Giant Exoplanets around M-dwarf Stars (GEMS)** survey, a volume-limited effort to discover and characterize transiting giant planets orbiting nearby M dwarfs.
 
-Detecting and characterizing Giant Planets around M-Dwarf Stars
+Although giant planets are common around Sun-like stars, they are intrinsically rare around low-mass M dwarfs. Their existence challenges classical core-accretion models, which predict that the relatively low-mass protoplanetary disks surrounding M dwarfs should rarely produce Jupiter-mass planets. By expanding the sample of well-characterized giant planets around M dwarfs, we can directly test how giant planet formation depends on stellar mass and investigate the physical processes responsible for their formation and migration.
 
-## OrCAS
+The GEMS survey combines TESS photometry with an extensive follow-up campaign to validate candidates and precisely measure their physical properties. Our observations include high-contrast speckle imaging to identify nearby contaminating stars, ground-based transit photometry to eliminate eclipsing binaries, spectroscopic observations to identify stellar companions, and precision radial velocity measurements using instruments including the Habitable-zone Planet Finder (HPF), NEID, the Keck Planet Finder (KPF), and the Planet Finder Spectrograph (PFS).
 
-Understanding the Origins, Compositions and Atmospheres of Sub-Neptunes
+As a member of the GEMS collaboration, I develop candidate vetting pipelines, analyze photometric and radial velocity observations, and perform joint modeling to determine planetary masses, radii, and orbital parameters. I also lead efforts to measure the occurrence rate of short-period giant planets around nearby M dwarfs using the full volume-limited GEMS sample, providing one of the most comprehensive constraints on this rare planetary population to date.
+
+Our most recent work confirmed four transiting giant planets—TOI-7189 b, TOI-7265B b, TOI-7393 b, and TOI-7394B b—demonstrating the remarkable diversity of giant planets orbiting early-M dwarfs. Together, these systems provide new constraints on giant planet formation around low-mass stars and illustrate how planets with dramatically different masses and bulk densities can arise around otherwise similar stellar hosts. As the GEMS sample continues to grow, it will provide increasingly powerful tests of planet formation theory and improve our understanding of how giant planet occurrence depends on stellar mass.
+
+---
+
+## Transit Surface Reconstruction
+
+A complementary component of my research focuses on improving the precision of radial velocity measurements by understanding stellar surface variability.
+
+My work centers on **Transit Surface Reconstruction (TSR)**, a novel transit spectroscopy technique that isolates the portion of a stellar surface occulted during a planetary transit by subtracting in-transit spectra from a master out-of-transit spectrum. This enables spatially resolved spectroscopy of stellar photospheres and allows us to directly detect localized surface features such as starspots, faculae, and granulation that introduce astrophysical radial velocity "jitter."
+
+I developed a complete analysis pipeline for applying TSR to observations from the **Keck Planet Finder (KPF)**, extending previous work performed with HARPS while incorporating support for next-generation extreme-precision spectrographs. By combining time-resolved spectroscopy with simultaneous photometric observations, my goal is to better quantify how stellar surface inhomogeneities influence radial velocity measurements and develop techniques that improve the detectability of Earth-mass planets around nearby stars.
+
+To support this work, I have successfully led proposals that have been awarded **ten Keck half-nights** with the Keck Planet Finder, **two nights on the Las Cumbres Observatory 2-meter telescope at Haleakalā**, **over ten nights at Apache Point Observatory**, and **one night at Palomar Observatory**. These observations provide the high-cadence spectroscopic and photometric datasets required to develop and validate the TSR technique across a range of stellar activity levels.
+
+---
+
+## Observing Experience
+
+Observational astronomy is a central component of my research. To date, I have accumulated **more than 50 nights of observing experience** across several world-class facilities, including **Keck Observatory**, **Apache Point Observatory**, **Las Cumbres Observatory**, and **Palomar Observatory**.
+
+I regularly observe with the **Keck Planet Finder (KPF)** and **HIRES** at Keck Observatory, **WINERED** on the Las Cumbres Observatory 2-meter telescope, and facilities at **Apache Point Observatory**, conducting both spectroscopic and photometric observations in support of exoplanet discovery and stellar characterization projects.
+
+In addition to leading observations for my own research, I participate in the nightly observing cadence of the **California Planet Search (CPS)**, contributing to long-term precision radial velocity monitoring programs aimed at discovering and characterizing nearby planetary systems. Through my involvement in the HPF, NEID, and CPS collaborations, I have gained extensive experience in every stage of observational astronomy, from proposal preparation and observing strategy to instrument operations, data reduction, and scientific analysis.
+
+These observing experiences have provided a strong foundation in high-resolution spectroscopy and precision radial velocity techniques while reinforcing the close connection between instrumentation, observational strategy, and scientific discovery.
 
 ---
 
 ## Previous Research Experience
 
-## Research Assistant at SETI Institute
+### Research Assistant at SETI Institute
 
-From 2021-2022, I was a Research Assistant at the SETI Institute’s Hat Creek Radio Observatory. I took this opportunity to gain firsthand experience with full-time research and observational astronomy, and to deepen my expertise in Python before starting my Ph.D. As a research assistant, I conducted observations with the Allen Telescope Array and analyzed potential Fast Radio Bursts (FRBs) and candidate technosignature signals—the telltale sign of a technologically capable civilization. I carried out an all-sky survey for narrowband signals while mitigating the effects of radio frequency interference, and compiled observing and data reduction scripts. 
+From 2021–2022, I worked as a Research Assistant at the SETI Institute's Hat Creek Radio Observatory, where I gained hands-on experience in observational radio astronomy and large-scale data analysis before beginning my Ph.D.
 
-As the primary operator of the telescope during its pre-commissioning refurbishment phase, I developed technical experience in calibrating antenna pointing and optimizing sensitivity. This hands-on instrumentation work opened my eyes to the complexity of observatory operations and reinforced my commitment to pursuing observational astrophysics. My contributions to SETI projects have resulted in numerous co-authorships, including a publication in Nature Astronomy (Bright et al. 2023, Nature Astronomy, Volume 7, p. 986–995).
+I conducted observations with the Allen Telescope Array, searching for Fast Radio Bursts (FRBs), pulsars, and candidate technosignature signals while developing pipelines to mitigate radio frequency interference. As the primary telescope operator during the array's pre-commissioning refurbishment, I also gained valuable instrumentation experience through antenna calibration, sensitivity optimization, and telescope operations.
 
----
-
-## Undergraduate Research at UT Austin
-
-My first formal research experience was through UT Austin’s Freshman Research Initiative, where I learned scientific programming and independent research by analyzing color-magnitude diagrams of open clusters and later simulating white dwarf atmospheres using plasma codes from laboratory astrophysics. 
-
-In my second year, I was awarded the John W. Cox Endowment to work with Drs. Brendan Bowler and Ya-Lin Wu on a project using Atacama Large Millimeter Array (ALMA) data to derive dynamical masses of pre-main sequence stars. I reduced interferometric data and utilized radiative transfer models using CASA and Python pipelines, leading to a presentation at the American Astronomical Society (AAS) and the publication of a Research Note (Premnath et al. 2020a). 
-
-I later received a second Cox Fellowship to study molecular line excitation in the high-redshift galaxy WISE J1329+2243 with Drs. Caitlin Casey and Justin Spilker. I reduced submillimeter spectra, and identified a dust-obscured AGN—work presented at the next AAS and published as another Research Note (Premnath et al. 2020b). These experiences built my foundation in data analysis, model fitting, and scientific communication across a range of astrophysical topics.
+This experience introduced me to large collaborative observing programs and resulted in numerous co-authored publications, including a paper published in *Nature Astronomy*.
 
 ---
 
-## Commitment to Mentorship and Equity
+### Undergraduate Research at UT Austin
 
-In addition to my research, I am deeply committed to education, mentorship, and community building. I have served as a Teaching Assistant for multiple undergraduate physics courses, where I prioritize inclusive pedagogy and student-centered learning. As an active member of the Physics and Astronomy Community Excellence (PACE) program, I mentor first-year graduate students as they navigate the transition into graduate school, and provide individualized support to upper division undergraduates applying to REUs and graduate programs. I also serve as a co-lead of the department’s Aspiring Allyship Group, which I helped organize to foster dialogue around equity and inclusion through facilitated discussions and community reading sessions. Most recently, I began my term as an administrator for the Physics Graduate Caucus at UCI, where I lead efforts to strengthen the graduate student community, support Teaching Assistants, and advocate for meaningful, student-led change within our Department. Through these roles, I have cultivated a commitment to improving the academic climate and promoting equity at all levels of the physics and astronomy community
+My first formal research experience began through UT Austin's Freshman Research Initiative, where I learned scientific programming by studying open clusters and modeling white dwarf atmospheres.
+
+As a John W. Cox Endowment Fellow, I later worked with Drs. Brendan Bowler and Ya-Lin Wu using ALMA observations to measure the dynamical masses of young stars through interferometric modeling, resulting in a first-author Research Note and a presentation at the American Astronomical Society.
+
+I subsequently received a second Cox Fellowship to work with Drs. Caitlin Casey and Justin Spilker studying molecular gas in the high-redshift galaxy WISE J1329+2243. By reducing submillimeter spectra, I identified evidence for a dust-obscured active galactic nucleus, leading to a second first-author Research Note and another presentation at the American Astronomical Society.
+
+Together, these projects provided a strong foundation in observational astronomy, scientific programming, statistical analysis, and astronomical instrumentation that continues to shape my research today.
