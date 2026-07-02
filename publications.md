@@ -7,13 +7,15 @@ title: Publications
 
 ## First-Author
 
-- Premnath, A. et al. (2020), *RNAAS*, 4(10), 173 — **Evidence for a Buried AGN in an Extremely Bright Dusty Galaxy at z = 2**  
-- Premnath, A. et al. (2020), *RNAAS*, 4(7), 100 — **Dynamical Masses of Young Stars Inferred from Two Transitions of CO with ALMA**
+- Premnath et al. (2026), AJ, TBD, TBD -- **Searching for GEMS: Three warm Saturns and a super-Jupiter orbiting four early M-dwarfs**  
+- Premnath et al. (2020), *RNAAS*, 4(10), 173 — **Evidence for a Buried AGN in an Extremely Bright Dusty Galaxy at z = 2**  
+- Premnath et al. (2020), *RNAAS*, 4(7), 100 — **Dynamical Masses of Young Stars Inferred from Two Transitions of CO with ALMA**
 
 ---
 
 ## Co-Author
 
+- Wright et al. (2026), *RNAAS*, 10(1), 14 -- **A Simple One-free-parameter Model of the Solar Chromosphere Explains Solar Chromospheric Line Variations Measured by NEID at WIYN during the 2023 October Solar Eclipse** 
 - Beard et al. (2025), *AJ*, 169(2), 149 — **Jitter Across 15 yr: Leveraging Precise Photometry from Kepler and TESS to Extract Exoplanets from Radial Velocity Time Series**  
 - Crossfield et al. (2025), *AJ*, 169(2), 89 — **OrCAS: Origins, Compositions, and Atmospheres of Sub-Neptunes. I. Survey Definition**  
 - Kroft et al. (2025), *AJ*, 170, 150. doi:10.3847/1538-3881/adee24 — **A Pair of Dynamically Interacting Sub-Neptunes Around TOI-6054**  
