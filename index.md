@@ -32,3 +32,7 @@ Before joining UC Irvine, I earned my B.S. in Astronomy and Physics with distinc
 🔗 [GitHub](https://github.com/pranavp25)  
 
 🔗 [LinkedIn](https://linkedin.com/in/pranav-premnath-17517a172/)
+
+🔗 [Group Website](https://faculty.sites.uci.edu/robertson/my-team/)
+
+🔗 [UCI Profile](https://www.physics.uci.edu/node/14405)
