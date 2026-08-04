@@ -39,9 +39,9 @@ To support this work, I have successfully led proposals that have been awarded *
 
 ## Observing Experience
 
-Observational astronomy is a central component of my research. To date, I have accumulated **more than 50 nights of observing experience** across several world-class facilities, including **Keck Observatory**, **Apache Point Observatory**, **Las Cumbres Observatory**, and **Palomar Observatory**.
+Observational astronomy is a central component of my research. To date, I have accumulated **more than 50 nights of observing experience** across several world-class facilities, including **Keck Observatory**, **Apache Point Observatory**, **Las Cumbres Observatory**, **Las Campanas Observatory** and **Palomar Observatory**.
 
-I regularly observe with the **Keck Planet Finder (KPF)** and **HIRES** at Keck Observatory, **WINERED** on the Las Cumbres Observatory 2-meter telescope, and facilities at **Apache Point Observatory**, conducting both spectroscopic and photometric observations in support of exoplanet discovery and stellar characterization projects.
+I regularly observe with the **Keck Planet Finder (KPF)** and **HIRES** at the 10m Keck I telescope, **WINERED** on the Las Campanas Observatory 6.5m Magellan telescope, and ARCTIC at the 3.5m ARC telescope at **Apache Point Observatory**, conducting both spectroscopic and photometric observations in support of exoplanet discovery and stellar characterization projects.
 
 In addition to leading observations for my own research, I participate in the nightly observing cadence of the **California Planet Search (CPS)**, contributing to long-term precision radial velocity monitoring programs aimed at discovering and characterizing nearby planetary systems. Through my involvement in the HPF, NEID, and CPS collaborations, I have gained extensive experience in every stage of observational astronomy, from proposal preparation and observing strategy to instrument operations, data reduction, and scientific analysis.
 
