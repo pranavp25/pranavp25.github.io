@@ -18,11 +18,11 @@ Before joining UC Irvine, I earned my B.S. in Astronomy and Physics with distinc
 
 ### Quick Links
 
-- 📄 [Research](research.html) 
-- 📜 [Publications](publications.html)
--  📄 [Outreach](outreach.html) 
-- 📂 [Curriculum Vitae](cv.html)  
-
+- [Research](research.html) 
+- [Publications](publications.html)
+- [Outreach](outreach.html) 
+- [Curriculum Vitae](cv.html)  
+- [Outside Astrophysics](forfun.html)  
 ---
 
 ### Contact
