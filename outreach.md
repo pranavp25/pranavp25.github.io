@@ -1,3 +1,8 @@
+---
+layout: default
+title: Research
+---
+
 ## Commitment to Mentorship and Outreach
 
 Beyond my research, I am committed to mentorship, teaching, and fostering an inclusive scientific community. As a Teaching Assistant for multiple undergraduate physics courses at UC Irvine, I strive to create a supportive, student-centered learning environment that encourages curiosity, critical thinking, and confidence in physics.
