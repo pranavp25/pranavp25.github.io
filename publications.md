@@ -8,7 +8,7 @@ title: Publications
 ## First-Author
 
 - Premnath et al. (2026), AJ, 172(2), 92 - **Searching for GEMS: Three warm Saturns and a super-Jupiter orbiting four early M-dwarfs**  
-- Premnath et al. (2020), *RNAAS*, 4(10), 173 — **Evidence for a Buried AGN in an Extremely Bright Dusty Galaxy at z = 2**  
+- Premnath et al. (2020), *RNAAS*, 4(10), 173 -- **Evidence for a Buried AGN in an Extremely Bright Dusty Galaxy at z = 2**  
 - Premnath et al. (2020), *RNAAS*, 4(7), 100 — **Dynamical Masses of Young Stars Inferred from Two Transitions of CO with ALMA**
 
 ---
